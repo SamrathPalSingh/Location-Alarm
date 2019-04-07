@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Location Alarm</string>
+    <string name="title_activity_maps">Location Alarm</string>
+    <string name="title_activity_set_alarm">SetAlarm</string>
+    <string name="channel_name">**REDACTED FOR SECURITY**</string>
+    <string name="channel_description">**REDACTED FOR SECURITY**</string>
+    <string name="needed">**REDACTED FOR SECURITY**</string>
+</resources>
